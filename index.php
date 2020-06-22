@@ -1,4 +1,6 @@
 <?php
+phpinfo();
+return;
 if( ini_get('safe_mode') ){
    // safe mode is on
   echo "safe";
