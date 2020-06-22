@@ -1,5 +1,5 @@
 <?php
 echo "start";
-sleep(200);
+sleep(400);
 echo "end";
 //phpinfo();
