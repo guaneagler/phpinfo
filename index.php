@@ -6,7 +6,7 @@ if( ini_get('safe_mode') ){
    // it's not
   echo "not safe";
 }
-set_time_limit(0);
+set_time_limit(550);
 echo "start";
 sleep(400);
 echo "end";
