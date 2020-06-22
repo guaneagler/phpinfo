@@ -8,7 +8,7 @@ if( ini_get('safe_mode') ){
 }
 set_time_limit(0);
 echo "start";
-//sleep(400);
+sleep(400);
 echo "end";
 echo ini_get("max_execution_time");
 //phpinfo();
